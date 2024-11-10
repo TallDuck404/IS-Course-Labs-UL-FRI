@@ -10,7 +10,7 @@ For this course, install Python version 3.9.20. After Python is installed, run `
 We suggest using Anaconda to install Python and all requirements. 
 
 1. Install miniconda3: https://docs.anaconda.com/miniconda/miniconda-install/
-2. Run: `conda create -n intelsys python=3.9.20`
+2. Run: `conda create -n intelsys python=3.9.20` 
 3. Run: `pip install -r requirements.txt`
 
 ### How to run Jupyter notebooks
